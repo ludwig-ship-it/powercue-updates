@@ -8,5 +8,26 @@
         <description>Most recent updates for PowerCue.</description>
         <language>en</language>
 
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Sun, 30 Aug 2026 22:10:00 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><b>PowerCue 1.0</b> — the teleprompter that follows your voice.</p>
+                <ul>
+                    <li>Voice following with on-device speech recognition: pause and it waits, ad-lib and it re-anchors.</li>
+                    <li>Karaoke highlight, jump markers, screen directions, and a fully styled dark-mode script editor.</li>
+                    <li>Detachable prompter window with full mirror flips for beam-splitter rigs.</li>
+                    <li>On-screen timer, run-time pacing with per-paragraph estimates, Word import and export.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.0/PowerCue.dmg"
+                       sparkle:edSignature="OWh0nNSYWZfv2WMD0PPZEwxEacdA9kJcg/Z+GdOqpVjKaX467YO+lIF9T9Zhp4IOsrDsDHI+2sjhDbUmcSGJAQ=="
+                       length="1764946"
+                       type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
