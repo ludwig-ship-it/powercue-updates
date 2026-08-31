@@ -9,6 +9,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Sun, 31 Aug 2026 11:15:00 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>The prompter now leads you</b> — the line you are about to read rests at the marker, so finishing a line advances the scroll immediately instead of waiting for your next word.</li>
+                    <li><b>Voice following starts faster</b> — and no longer drops words spoken across recognition boundaries, so it never loses you after a pause.</li>
+                    <li><b>Play fixed at slow speeds</b> — long run times and slow per-line speeds used to freeze the scroll in place; it now glides smoothly at any pace.</li>
+                    <li><b>A guided tour</b> — offered on first launch and replayable any time from Help → Take the Tour.</li>
+                    <li><b>A real Settings window</b> — microphone, automatic updates, help and feedback, and your license, under ⌘,.</li>
+                    <li>Close toggles for the markers panel and the prompter preview, and a fresh starter script.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.1/PowerCue.dmg"
+                       sparkle:edSignature="+tM2GjXBdJubidpA5mGkyyneVBXJhSb38by9wSMDQ+NA59WZBvM8b92ts/6AiCQC5K8zNGsfI5UfJ1kYSAbGBQ=="
+                       length="1809210"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.0</title>
             <pubDate>Sun, 30 Aug 2026 22:10:00 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
