@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+    <channel>
+        <title>PowerCue updates</title>
+        <link>https://ludwig-ship-it.github.io/powercue-updates/appcast.xml</link>
+        <description>Most recent updates for PowerCue.</description>
+        <language>en</language>
+
+    </channel>
+</rss>
