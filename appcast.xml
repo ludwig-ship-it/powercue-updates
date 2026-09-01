@@ -9,6 +9,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.2</title>
+            <pubDate>Tue, 01 Sep 2026 18:30:00 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>PowerCue Companion for iPhone and iPad</b> — mirror the prompter to your phone or tablet over local Wi-Fi, in perfect lock-step: same line breaks, styling, karaoke highlight, and on-screen timer. Turn it on under the display menu; the companion app is coming to the App Store.</li>
+                    <li><b>Your iPhone as the microphone</b> — pick "iPhone/iPad Microphone" in the mic menu and the phone in front of you drives voice following, with recognition staying on the device.</li>
+                    <li><b>Prompter mode in the editor</b> — the Prompter tab now styles the edit page exactly like the prompter (same line breaks, markers, timecodes) while staying a full text editor.</li>
+                    <li><b>Font menu in the editor</b> — the same font picker as the prompter, and Helvetica as the fresh-start default.</li>
+                    <li><b>Timer button</b> — show or hide the on-screen timer right from the control bar.</li>
+                    <li><b>Voice following is more resilient</b> — if macOS speech recognition fails mid-session, PowerCue now reconnects automatically instead of stalling.</li>
+                    <li>A styled starter script that shows off markers and formatting, and assorted fixes.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.2/PowerCue.dmg"
+                       sparkle:edSignature="Ey2hMTm3Ysd9sSP08MabtRdgjHDLDmUQf9w4mgvzRRyhQcF+3vU7g2LDnvqArZrYxBR0l5RsKYAXSWk78LZOBg=="
+                       length="1877375"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.1</title>
             <pubDate>Sun, 31 Aug 2026 11:15:00 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
