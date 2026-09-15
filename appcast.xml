@@ -9,6 +9,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.5</title>
+            <pubDate>Tue, 15 Sep 2026 15:00:00 -0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Run the prompter from your phone</b>: PowerCue Companion 1.0.2 adds Follow, Play/Pause, Back to Top and marker buttons, and stays awake while prompting. If its microphone cannot listen, the phone says why.</li>
+                    <li><b>Language of the script</b>: Settings, Speech Recognition. Pick the language you read in; the Mac and the iPhone microphone both recognize it. Only on-device languages are offered.</li>
+                    <li><b>The marker arrow is a handle</b>: drag it to move the marker. It is bigger by default, goes much bigger, sits flush against the edge, and can live on the right side.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.5/PowerCue.dmg"
+                       sparkle:edSignature="ybPgz54XQZFHWIWPZFGiCsOux7P5v9ccaeUV0mfCsRDgg5qVxF47cuZm151thq24bF/xBytVAn8WIlKcJdWhDQ=="
+                       length="1908374"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.4</title>
             <pubDate>Tue, 15 Sep 2026 13:30:00 -0400</pubDate>
             <sparkle:version>5</sparkle:version>
