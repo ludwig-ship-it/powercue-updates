@@ -9,6 +9,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.4</title>
+            <pubDate>Tue, 15 Sep 2026 13:30:00 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Scroll from your phone</b>: drag the script on the iPhone or iPad companion and the Mac prompter follows your finger. Play pauses while you drag and resumes where you let go; during Follow, letting go re-anchors the voice tracking right there. Needs PowerCue Companion 1.0.1 from the App Store.</li>
+                    <li><b>Smarter crash reports</b>: Send Crash Reports now attaches only reports from this app and this version (or the last week), each labeled with the version that crashed.</li>
+                    <li>Companion sync is more robust when the script changes while a device is connected.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.4/PowerCue.dmg"
+                       sparkle:edSignature="W1Ix1LKWo1VFGTTxBXyMCTYfxRRaxotLUuzeT+7mrb+2N+XuX3csihdyaIfEdBz4crMkERNRFxWMmIsVcXVACQ=="
+                       length="1889224"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.3</title>
             <pubDate>Tue, 15 Sep 2026 16:30:00 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
