@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.3</title>
+            <pubDate>Tue, 15 Sep 2026 16:30:00 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>PowerCue Companion is on the App Store</b>: the free iPhone and iPad app that mirrors your prompter in lock-step and can act as your microphone. Settings now links straight to it, under iPhone &amp; iPad Companion.</li>
+                    <li>Small fixes and polish.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.3/PowerCue.dmg"
+                       sparkle:edSignature="h5DBQ+ZrLyZbmJMmqDNP5wYuEJqQeFktOArPd93Yd+KKENSLvmnrrF5/E4hX/XB4HJ7h3eGY6gBeqJePngYSBg=="
+                       length="1878098"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.2</title>
             <pubDate>Tue, 01 Sep 2026 18:30:00 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
