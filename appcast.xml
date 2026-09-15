@@ -9,6 +9,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.6</title>
+            <pubDate>Tue, 15 Sep 2026 18:15:00 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Karaoke stays with your voice</b>: the highlight now leads the recognizer so it sits on the word you are saying, glides at your reading pace between results, and when you pause it settles on the last word you said instead of running ahead. Prompter settings, Karaoke, Timing: Behind, In line or Ahead.</li>
+                    <li><b>Fade and highlight are independent</b>: dim what you have read without a highlight, or highlight without the fade.</li>
+                    <li><b>Pill highlight</b>: a rounded pill around the current word, with its own text color. Prompter settings, Karaoke, Style.</li>
+                    <li><b>Which microphone is listening</b>: while following, the status line under the prompter preview names the device. Recognition uses your system language and region.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.6/PowerCue.dmg"
+                       sparkle:edSignature="kq2ygG9HkWruL0dj4JemcILD3LKlZEXknlakPR7pIih69yljy9A3sQkwgOMdCRLlJqlFzZ62t2zRYKoiNn+dDg=="
+                       length="1913123"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.5</title>
             <pubDate>Tue, 15 Sep 2026 15:00:00 -0400</pubDate>
             <sparkle:version>6</sparkle:version>
