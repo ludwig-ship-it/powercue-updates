@@ -9,6 +9,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.8</title>
+            <pubDate>Tue, 15 Sep 2026 23:30:00 -0400</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Stumble and start again</b>: re-read a line or paragraph you already read and the prompter jumps back to it. Prompter settings, Follow, "Jump back when I re-read a line" (on by default).</li>
+                    <li><b>The phone microphone loses its dialog too</b>: with PowerCue Companion 1.0.4 on iOS 26, the iPhone microphone uses the newer on-device speech engine and needs only the microphone permission.</li>
+                    <li><b>Interruptions on the phone</b>: a call or Siri taking the iPhone microphone is reported on the Mac, and listening resumes on its own when the microphone is free.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.8/PowerCue.dmg"
+                       sparkle:edSignature="8e8J3dG/zkS06cNUhquECoufjsM/oywwIEwbN0uAsiLSLRz9ae3Vw9+RL9Fr/3W26/mIq06YZxpYLbVjrPb5Aw=="
+                       length="1969281"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.7</title>
             <pubDate>Tue, 15 Sep 2026 21:00:00 -0400</pubDate>
             <sparkle:version>8</sparkle:version>
