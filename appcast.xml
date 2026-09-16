@@ -9,6 +9,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.7</title>
+            <pubDate>Tue, 15 Sep 2026 21:00:00 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>No more "sent to Apple" dialog</b>: on macOS 26 PowerCue uses Apple's newer on-device speech engine, which needs only the microphone permission. Speech never left your Mac before either; now the dialog that implied otherwise is gone.</li>
+                    <li><b>Named markers</b>: double-click a marker badge, or a row in the markers panel, to give it a name. The panel highlights the section the prompter is on.</li>
+                    <li><b>Rearrange sections</b>: drag a row in the markers panel (or right-click, Move Up / Move Down) and the whole block up to the next marker moves with it. Drag a badge in the text to move just the marker.</li>
+                    <li><b>Paragraph gap</b>: Text settings gain a switch and a slider for the space between paragraphs on the prompter; at zero, paragraphs sit right on top of each other. The Companion matches it (1.0.3).</li>
+                    <li><b>Paste keeps your styling</b>: pasted text takes the look of the text around the cursor instead of bringing its own fonts.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.7/PowerCue.dmg"
+                       sparkle:edSignature="uWtlE+63ol1w+3FpIhQpk+/BZVwoviYYIcgRYaAU/6nzdTrYryPQ8ZaaKugFNnjtcFglSpfaiEFIhs5gONmODA=="
+                       length="1965289"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.6</title>
             <pubDate>Tue, 15 Sep 2026 18:15:00 -0400</pubDate>
             <sparkle:version>7</sparkle:version>
