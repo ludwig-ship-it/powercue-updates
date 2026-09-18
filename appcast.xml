@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.10</title>
+            <pubDate>Fri, 18 Sep 2026 13:00:00 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Follow on macOS 27</b>: fixes "Could not start audio input (error -10868)". When the normal audio route is refused, PowerCue retries with a fresh audio engine and then captures the microphone the way FaceTime does, so Follow works with every input.</li>
+                    <li><b>A microphone that cannot start no longer stops Follow</b>: PowerCue falls back to the system default input and says so in the status line.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.10/PowerCue.dmg"
+                       sparkle:edSignature="IN2z06xquI2nGE7Efvbtap4XPEm8gatx3hM2Ad6pTWj5n606ux/T/iZMZXcDNrhlIInT90M7BsQ0bkjeNOECDQ=="
+                       length="1984363"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.9</title>
             <pubDate>Wed, 16 Sep 2026 12:00:00 -0400</pubDate>
             <sparkle:version>10</sparkle:version>
