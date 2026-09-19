@@ -9,6 +9,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.12</title>
+            <pubDate>Sat, 19 Sep 2026 13:00:00 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Everything stays on screen in a small window</b>: the formatting bar wraps onto more rows, the prompter preview can no longer be pushed off the window, and the window has a sensible minimum size.</li>
+                    <li><b>Smooth preview resizing</b>: dragging the divider beside the prompter preview no longer jumps or lags.</li>
+                    <li><b>Bigger text in the markers panel</b>: two buttons in the panel header make the marker names and snippets larger or smaller.</li>
+                    <li><b>Park the editor timer anywhere</b>: drag it off the script, onto the markers panel or to the far left edge.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.12/PowerCue.dmg"
+                       sparkle:edSignature="dAG22PoK1E9zwxj//Uxmr99jnaSFB/qwVe8hQ93G+OALqDZ6RMD1nFfC9TR3nRtXMPpdfW1isT1oLLDlTm8wDg=="
+                       length="2018273"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.11</title>
             <pubDate>Sat, 19 Sep 2026 10:00:00 -0400</pubDate>
             <sparkle:version>13</sparkle:version>
