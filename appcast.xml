@@ -9,6 +9,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.13</title>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 -0400</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Highlighter</b>: mark words with color blocks (yellow, green, cyan, pink, orange, purple, red) from the formatting bar. They show on the prompter, hug the words, and stay readable after you have read past them.</li>
+                    <li><b>Marker number keys</b>: press 1 to 9 to jump to that marker; the editor shows the spot too.</li>
+                    <li><b>Arrow keys</b>: Up and Down glide the prompter on a tap and scroll steadily while held; Left and Right step one line.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.13/PowerCue.dmg"
+                       sparkle:edSignature="u9GiLrB8DW6VtcBdf441W5M536VcwuZ+/oa3HCegIqw1xhAN2s1i/7zDh9hKPR5qRmbUgshdIUg+YbqlUHzoCg=="
+                       length="2028811"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.12</title>
             <pubDate>Sat, 19 Sep 2026 13:00:00 -0400</pubDate>
             <sparkle:version>14</sparkle:version>
