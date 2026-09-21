@@ -9,6 +9,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.14</title>
+            <pubDate>Mon, 21 Sep 2026 20:00:00 -0400</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Video feed (beta)</b>: show a live camera behind the prompter text, in the preview, the prompter window, or both. Any camera macOS sees works, including capture cards, Continuity Camera and virtual cameras such as Ecamm Live. Brightness, mirror, fill or fit, and a text drop shadow you can tune. Off by default; nothing is recorded. Buttons under the prompter, settings in the Video Feed section.</li>
+                    <li><b>Settings in tabs</b>: Follow, Companion, Updates and License, Help. A gear at the bottom right of the edit window opens and closes it.</li>
+                    <li><b>Keyboard Shortcuts window</b>: Help, Keyboard Shortcuts, also on the Help tab. Works offline.</li>
+                    <li><b>Clearer help when a language is missing</b>: the message now says how to install Apple's on-device model for your language.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.14/PowerCue.dmg"
+                       sparkle:edSignature="M5S/fQI1mXRa5H5NWUkTsEru4ZoiF+PcTxrGn/Fs5nZ7jWmJoWFVi+rIx6+o2DH/1HxMmH75itIM2yVwBaohCg=="
+                       length="2073555"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.13</title>
             <pubDate>Mon, 21 Sep 2026 12:00:00 -0400</pubDate>
             <sparkle:version>15</sparkle:version>
