@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.15</title>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Smart Word import</b>: a script written in Word arrives ready to prompt. Strikethrough, word colors, Word's highlighter and alignment carry over; [square brackets] become screen directions; Word headings and lines starting with ### become named jump markers. The import sheet shows what was found, with a checkbox per conversion.</li>
+                    <li><b>Word export round trip</b>: markers leave as real Word headings (they show in Word's navigation pane) and screen directions get [brackets], so a script edited in Word and imported again comes back with everything in place.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.15/PowerCue.dmg"
+                       sparkle:edSignature="hwEXhQXiOGPmKDwjDvkohQlXx/SUwmw8n/htHOLOrSe8IJDkKWkfp9dGJ0sEIKO37A41Jvjzbo1Eafy84sybDA=="
+                       length="2095465"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.14</title>
             <pubDate>Mon, 21 Sep 2026 20:00:00 -0400</pubDate>
             <sparkle:version>16</sparkle:version>
