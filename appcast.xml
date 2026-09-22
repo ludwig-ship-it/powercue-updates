@@ -11,7 +11,7 @@
         <item>
             <title>Version 1.0.16</title>
             <pubDate>Tue, 22 Sep 2026 16:00:00 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
+            <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -22,8 +22,8 @@
                 </ul>
             ]]></description>
             <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.16/PowerCue.dmg"
-                       sparkle:edSignature="qPzJIx5xx1+WYwhv3vQwyhynWWeJT7SGVECYhvHGzIzV4oke/jX/Vdfxvoa0HWxpGf8z1UY7ydO9SpUpbKu/CQ=="
-                       length="2112804"
+                       sparkle:edSignature="2uy9K0IB+vdaToKZSKcfcFikbTkxITMNeOWHdEuEjwX/7a5B5gf6169wjMVf91gV1wV3CFM2k29ldU4svC/oAA=="
+                       length="2113506"
                        type="application/octet-stream"/>
         </item>
 
