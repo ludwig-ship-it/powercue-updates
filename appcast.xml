@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.17</title>
+            <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Karaoke timing, explained where you need it</b>: new installs start with Timing set to In line (the highlight sits on the word you are saying), and the first few Follow sessions show a tip under the prompter pointing at the Timing picker. Behind, In line or Ahead: whichever feels right is one click away.</li>
+                    <li><b>Display menu</b>: moving the prompter window to another display works from the preview too, and while the window is fullscreen.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.17/PowerCue.dmg"
+                       sparkle:edSignature="X2kO/OO/SB+CmHfRiYts5SQ3KbY5w2RjttD7+jewIcNv8yuNdbwWeLeeU6IALOzulwW/DGXZptWFpQCyZwtgDg=="
+                       length="2113846"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.16</title>
             <pubDate>Tue, 22 Sep 2026 16:00:00 -0400</pubDate>
             <sparkle:version>20</sparkle:version>
