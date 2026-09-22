@@ -9,6 +9,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.16</title>
+            <pubDate>Tue, 22 Sep 2026 16:00:00 -0400</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Stream Deck and automation</b>: a Prompter menu gives every command a keyboard shortcut (Follow, Play, Back to Top, markers, timer, video feed), and PowerCue answers powercue:// links (powercue://follow, play, top, marker/3, and more) even when it is not in front. Help, Keyboard Shortcuts lists them all.</li>
+                    <li><b>Small prompter monitors</b>: the prompter window now goes down to 360 by 240, its controls wrap to fit, and a chevron in the bottom right hides them so the whole screen is text.</li>
+                    <li><b>Karaoke stays with you</b>: the highlight no longer runs ahead when you pause. New installs start with Timing set to Behind; In line and Ahead settle back on your last word sooner.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.16/PowerCue.dmg"
+                       sparkle:edSignature="yxa9qlEWU/CngH9IhgvO4XbGY+BFMN/lsoxucp67KJ0otO7Gt+9Y+qr7u50ACNgf9/X2KppqdbRa0cVzWOq3Cw=="
+                       length="2111541"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.15</title>
             <pubDate>Tue, 22 Sep 2026 12:00:00 -0400</pubDate>
             <sparkle:version>17</sparkle:version>
