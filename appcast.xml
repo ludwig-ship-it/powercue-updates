@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.18</title>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 -0400</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Undo for sliders</b>: every prompter setting slider and the speed slider can be undone with Command-Z and redone with Shift-Command-Z, one step per drag.</li>
+                    <li><b>Stream Deck</b>: the Keyboard Shortcuts window now points to the Website action for powercue:// links.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.18/PowerCue.dmg"
+                       sparkle:edSignature="62LspUtIOBY6pH2W2KZeGMZsIJRvHRXJtyQ5BjpBF13PrXqlF3WJQgt2kM+6OrOqgu7Gr1LAMHCaCpJuvqenBw=="
+                       length="2117227"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.17</title>
             <pubDate>Tue, 22 Sep 2026 19:00:00 -0400</pubDate>
             <sparkle:version>21</sparkle:version>
