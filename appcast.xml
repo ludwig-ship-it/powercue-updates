@@ -9,6 +9,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.19</title>
+            <pubDate>Fri, 25 Sep 2026 12:30:00 -0400</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Faster, lighter following</b>: PowerCue now does far less work for each word you say. On a long script it uses about a sixth of the processor time it did, so 8 GB and older Macs keep up and the scroll glides without stutter.</li>
+                    <li><b>Language menu</b>: a globe menu beside Find, under the prompter, switches the language voice following listens for in one click.</li>
+                    <li><b>Language check</b>: when your script is written in a different language than PowerCue is listening for, it offers to switch.</li>
+                    <li><b>Drag and drop import</b>: drop a Word document, RTF or text file onto the editor to import it.</li>
+                    <li><b>Highlight as I speak</b> now starts off; turn it on in the karaoke settings.</li>
+                    <li><b>macOS 14 and 15</b>: pausing while you read no longer reloads the speech engine or stops Follow.</li>
+                    <li><b>Fixes</b>: Undo after opening another script no longer reaches into the previous one, restoring a version that only changed formatting now shows it, and Follow stopping on an error also stops its timers.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.19/PowerCue.dmg"
+                       sparkle:edSignature="m7ZFV60S6ML9Gu6AKklTAghgCJl7KSYxTbb29nincFrO3XsMizGIFDbC4hym3n7fiUNP2biRgPtVMJZzyMKXCA=="
+                       length="2171354"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.18</title>
             <pubDate>Thu, 24 Sep 2026 12:00:00 -0400</pubDate>
             <sparkle:version>22</sparkle:version>
