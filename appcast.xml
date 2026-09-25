@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.20</title>
+            <pubDate>Fri, 25 Sep 2026 16:00:00 -0400</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>New languages always work</b>: Apple lets each app keep speech models for five languages. Once five had been used, PowerCue could not add another. It now makes room automatically, releasing the language you used least recently.</li>
+                    <li><b>Clear messages</b>: if Apple's speech model for a language cannot be downloaded, PowerCue now says so and why, instead of suggesting a microphone problem. Other speech errors include Apple's explanation too.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.20/PowerCue.dmg"
+                       sparkle:edSignature="obx36dFmlH/7cD5dHE6AK1cbDJOcEMNdNKDdfgqSfUGO9mpghrHQVR+vV83m5t6iAEMdORO0l5ZoyZo3XS2YBw=="
+                       length="2185500"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.19</title>
             <pubDate>Fri, 25 Sep 2026 12:30:00 -0400</pubDate>
             <sparkle:version>23</sparkle:version>
