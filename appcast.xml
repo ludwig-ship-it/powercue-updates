@@ -9,6 +9,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.23</title>
+            <pubDate>Sat, 26 Sep 2026 12:08:06 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Camera menu</b>: the arrow beside the camera buttons switches cameras in one click.</li>
+                    <li><b>Color LUTs</b>: import a .cube file to see log footage in normal color behind the prompter.</li>
+                    <li><b>Framing guides</b>: rule of thirds, golden ratio, center mark, safe area and 9:16, 4:5 or 1:1 crop frames over the feed.</li>
+                    <li><b>The feed reconnects by itself</b> when the picture stops, for example after you change the camera's resolution.</li>
+                    <li><b>Settings in cards</b> that fold open and closed and go in your own order: drag a card by its grip, or right-click its title.</li>
+                    <li><b>Safer saving</b>: if another app or another Mac changes the same script, PowerCue keeps both versions instead of writing over one.</li>
+                    <li><b>Mic level on the Follow button</b>, so you can see the Mac's microphone hears you.</li>
+                    <li><b>Smart paste</b>: pasted [square brackets] become screen directions and ### lines become named markers. Edit, Paste and Match Style still pastes plain text.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.23/PowerCue.dmg"
+                       sparkle:edSignature="8Sd7j0lIGS5GfJXxObO6p7DfPjLHms3wL20c1jMmQIv/+0YbEX0Uoaon0/USFxKG1lUgSXbrhLZ1oFlxRHiyDQ=="
+                       length="2350051"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.21</title>
             <pubDate>Fri, 25 Sep 2026 18:00:00 -0400</pubDate>
             <sparkle:version>25</sparkle:version>
