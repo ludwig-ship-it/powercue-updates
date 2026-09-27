@@ -9,6 +9,23 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.24</title>
+            <pubDate>Sat, 26 Sep 2026 20:59:08 -0400</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Section titles</b>: Word headings and ### lines still become markers, and now their titles stay readable. Each title shows above its section in the editor and on the prompter, next to the marker number.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.24/PowerCue.dmg"
+                       sparkle:edSignature="FMHJQOF8lE07b3N6sZMQWpCmQA7ASKeE4ardPZi1gCZwKZq/uPVhAyi7i6UWdAQWfpFs2OYM+kwWQT6hhe4mCw=="
+                       length="2344326"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.23</title>
             <pubDate>Sat, 26 Sep 2026 12:08:06 -0400</pubDate>
             <sparkle:version>27</sparkle:version>
