@@ -9,6 +9,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.25</title>
+            <pubDate>Sun, 27 Sep 2026 07:41:34 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Pasting</b>: pasted text no longer turns into a screen direction (the green highlight) when it lands next to one or replaces a script that starts with one. Only its own [square brackets] become directions, and Cmd-D turns a selected direction back into script text in one press.</li>
+                    <li><b>Section titles on the iPhone</b>: titles from headings now show on PowerCue Companion too, with their marker numbers. No phone update needed.</li>
+                    <li><b>Space under titles</b>: a blank line under a pasted or imported heading now stays under its title, and Word export and import keep it.</li>
+                    <li><b>Undo</b> takes back a paste on its own, never the typing just before it.</li>
+                    <li><b>Faster typing</b> in long scripts with many section titles.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.25/PowerCue.dmg"
+                       sparkle:edSignature="EhvymmGbRi7Y+OFBz/h1sCDUtMqS7VCvzsERkW5b4mESuNOXIz6MSkHKfjk9807lw7AEJV0e+eSC82IJnDm6Cg=="
+                       length="2359380"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.24</title>
             <pubDate>Sat, 26 Sep 2026 20:59:08 -0400</pubDate>
             <sparkle:version>28</sparkle:version>
