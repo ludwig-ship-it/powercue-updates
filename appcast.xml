@@ -9,6 +9,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.26</title>
+            <pubDate>Mon, 28 Sep 2026 17:42:54 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Voice following</b> no longer jumps ahead to a later paragraph that shares a few words with the line you are reading, such as a repeated word or a phrase the recognizer has only half heard. Starting a paragraph over and skipping a sentence are followed as before.</li>
+                    <li><b>Audio interfaces</b>: voice following now hears microphones on interfaces with several inputs, such as the Focusrite Scarlett 4i4 and 2i2. Before, it could hear silence from them even while the level band moved.</li>
+                    <li><b>Input Channel</b>: when the selected microphone has several inputs, the menu beside Follow (and Settings, Microphone) lets you pick the one it is plugged into. Each device remembers its own; Input 1 by default.</li>
+                    <li><b>Microphone list</b>: it updates as soon as a device changes, such as an aggregate device gaining inputs, and no longer shows macOS's own hidden devices.</li>
+                    <li><b>Languages</b>: Norwegian, Danish, Swedish, Finnish, Dutch, Polish, Russian, Turkish and 16 more can be used for Follow again on macOS 26. Their speech model now downloads the first time you pick one.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.26/PowerCue.dmg"
+                       sparkle:edSignature="RtrpBc9t1i9/Ath2N7hPiuJpV9vKxwF0xiQbVLpfWPCYMxWy8EntVuJdKhP5FQ6OLa6uNnF/QXtCDsSuksoCCQ=="
+                       length="2376452"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.25</title>
             <pubDate>Sun, 27 Sep 2026 07:41:34 -0400</pubDate>
             <sparkle:version>29</sparkle:version>
