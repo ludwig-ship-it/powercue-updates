@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.27</title>
+            <pubDate>Mon, 28 Sep 2026 18:33:12 -0400</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Licensing</b>: PowerCue recognizes keys from every current edition and remembers which edition a key belongs to. A key from an edition this version does not know now asks you to update, instead of being turned away as a free-download key.</li>
+                    <li>If your license cannot be saved in the Keychain, PowerCue now says so, instead of unlocking only until the next launch.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.27/PowerCue.dmg"
+                       sparkle:edSignature="viM6bP9l/hZfjSTDHY4JmaAPMmwrmzgKmPyg1KikgimF5bMdRJHi3XSsiah1H+iddrDyEQra2Dnp5PJFoestBQ=="
+                       length="2376611"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.26</title>
             <pubDate>Mon, 28 Sep 2026 17:42:54 -0400</pubDate>
             <sparkle:version>30</sparkle:version>
