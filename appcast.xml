@@ -9,6 +9,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.29</title>
+            <pubDate>Mon, 12 Oct 2026 14:07:31 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Scrolling</b>, a new settings section after Text: Play's pace, the speed of the arrow keys, and three new switches.</li>
+                    <li>Hold Up or Down and the script rolls smoothly, at a speed you set.</li>
+                    <li><b>Speed up and slow down with the arrows</b> while Play rolls, down to a stop and on into rolling backward. For running the prompter by hand.</li>
+                    <li><b>Editor follows the prompter</b>: the editor scrolls along, so your place is in view when you stop to edit.</li>
+                    <li>The editor marks <b>the prompter's place</b> with a small arrow and a thin line, in the reading marker's colors.</li>
+                    <li>The paragraph gap goes up to 4 lines.</li>
+                    <li>A click outside the script takes the cursor out of it, so Space and the arrows work the prompter.</li>
+                    <li>In a narrow window the editor wraps the script to its width. No line is cut off.</li>
+                    <li>macOS 27: the empty part of the top bar moves the window again.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.29/PowerCue.dmg"
+                       sparkle:edSignature="hNv3ABhGoJNuCAk5Kw+9p5CvpF2QyooEJDD2EsvE5ItH76vW0Mq3OfBsASqE9cQ38+nw4ycSqoVTat+nkB7eAg=="
+                       length="5251926"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.28</title>
             <pubDate>Thu, 08 Oct 2026 15:10:23 -0400</pubDate>
             <sparkle:version>35</sparkle:version>
