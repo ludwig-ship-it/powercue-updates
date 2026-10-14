@@ -9,6 +9,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.30</title>
+            <pubDate>Wed, 14 Oct 2026 19:26:34 -0400</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Smoother Play</b>: a change of speed is a short glide, also with a hardware scroller.</li>
+                    <li><b>Full screen</b> for the Prompter Window and <b>Blackout</b>, from the top bar or with a key.</li>
+                    <li>The <b>scroll wheel and trackpad</b> can change Play's speed.</li>
+                    <li>Say <b>"PowerCue, take me to Marker 3"</b>, or a marker's name, while Follow listens.</li>
+                    <li>The <b>Floating Prompter</b> has its own font size and column width.</li>
+                    <li>An <b>audio meter</b> on the camera picture for the take's microphone.</li>
+                    <li><b>Double-click</b> a paragraph in a prompter to edit it right there.</li>
+                    <li>The Prompter Window opens where it was last.</li>
+                    <li>Every button has a tooltip.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.30/PowerCue.dmg"
+                       sparkle:edSignature="zHrKt+3Ar+ultKijTbmDjkjglezkiSwkuQLUNR0SODAk95dE1wSZEDYCUcV90KnBvQCGHK4gyRDcO3jkv4u6CA=="
+                       length="5327356"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.29</title>
             <pubDate>Mon, 12 Oct 2026 14:07:31 -0400</pubDate>
             <sparkle:version>44</sparkle:version>
