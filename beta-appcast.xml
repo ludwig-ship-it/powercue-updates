@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+    <channel>
+        <title>PowerCue Beta updates</title>
+        <link>https://ludwig-ship-it.github.io/powercue-updates/beta-appcast.xml</link>
+        <description>Beta builds of PowerCue (PowerCue Beta only; the released PowerCue reads appcast.xml).</description>
+        <language>en</language>
+
+        <item>
+            <title>Beta 1.0.31 (55)</title>
+            <pubDate>Fri, 16 Oct 2026 14:07:12 -0400</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Voice Follow in Bulgarian</b>, and in Estonian, Latvian, Lithuanian, Maltese and Slovenian, which Apple's speech recognition does not have. PowerCue downloads a speech model for them once (about 460 MB); following runs on your&#160;Mac.</li>
+                    <li>A <b>marker added over selected text</b> now goes in front of it. The text&#160;stays.</li>
+                    <li>Everything in PowerCue 1.0.30, and recording with PowerCue Pro or the&#160;trial.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.31-beta.55/PowerCue-Beta.dmg"
+                       sparkle:edSignature="UDzAwjKX2NjdArLlq6jjSmemMYEtbO3tl/7UrJz82Zw2YrfDuxzeo0ObXi54JTGsd0EKtpV7WPS9Snu1RENLDA=="
+                       length="14750728"
+                       type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
