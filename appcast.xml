@@ -9,6 +9,24 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.31</title>
+            <pubDate>Fri, 16 Oct 2026 14:32:40 -0400</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Voice Follow in Bulgarian</b>, and in Estonian, Latvian, Lithuanian, Maltese and Slovenian (in beta). PowerCue downloads a speech model for them once, about 460&#160;MB; following runs on your&#160;Mac.</li>
+                    <li>A <b>marker added over selected text</b> goes in front of it. The text&#160;stays.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.31/PowerCue.dmg"
+                       sparkle:edSignature="E7QDuxPr9iVfAJlMmd54TI5U5o2E7fpjMn+ie7vBOXZQqAKOWbIdhu1lejGVikMO/O8A7NS9NlONbgBvw7lABw=="
+                       length="14631248"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.30</title>
             <pubDate>Wed, 14 Oct 2026 19:26:34 -0400</pubDate>
             <sparkle:version>53</sparkle:version>
