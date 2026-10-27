@@ -9,6 +9,30 @@
         <language>en</language>
 
         <item>
+            <title>Beta 1.0.32 (64)</title>
+            <pubDate>Tue, 27 Oct 2026 17:16:26 -0400</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Record without a camera, or without a screen.</b> The Camera menu has "No camera (screen only)", the Screen menus "No screen (camera only)". Without a camera your voice goes into the screen file (macOS 15 and&#160;later).</li>
+                    <li><b>PowerCue in the menu bar.</b> Start a recording of a display, a selection, a window or an app, the screen or the camera alone, or open a small quick bar. While you record, a stop button with the time and a pause button sit in the menu&#160;bar.</li>
+                    <li>A <b>red line around the screen</b> while a display is recorded. It is not in the&#160;recording.</li>
+                    <li>When the camera is not connected, PowerCue <b>asks whether to record the screen only</b> instead of not&#160;starting.</li>
+                    <li><b>Editing in the prompter:</b> Undo and Redo work, and pasted text takes the style of the words before&#160;it.</li>
+                    <li><b>Voice Follow:</b> Smooth scrolling no longer moves the text on background noise, and a phrase heard from much earlier no longer sends the prompter back several&#160;paragraphs.</li>
+                    <li><b>Check for Updates</b> in the menu bar menu, and a dot on the icon when an update is&#160;waiting.</li>
+                    <li>Everything in PowerCue 1.0.31, and recording with PowerCue Pro or the&#160;trial.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.32-beta.64/PowerCue-Beta.dmg"
+                       sparkle:edSignature="8HlH1HWejiAPNdfVmr4IA76xmbhTnhY8VMk0Cv/V42NGLbI1ceTUel0gbv3K6EmaeQ0CYPcSaOfNWt9+eL2rCA=="
+                       length="14853635"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Beta 1.0.31 (55)</title>
             <pubDate>Fri, 16 Oct 2026 14:07:12 -0400</pubDate>
             <sparkle:version>55</sparkle:version>
