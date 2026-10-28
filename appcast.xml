@@ -9,6 +9,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.32</title>
+            <pubDate>Wed, 28 Oct 2026 00:40:11 -0400</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>PowerCue in the menu bar.</b> Record a display, a selection, a window or an app from any app, or open a small quick bar. While you record, a stop button with the time and a pause button sit in the menu bar. Recording is part of PowerCue&#160;Pro.</li>
+                    <li><b>Record the screen alone, or the camera alone,</b> with the new Screen and Camera switches in New Recording. Without a camera your voice goes into the screen file (macOS 15 and&#160;later).</li>
+                    <li><b>Allow Screen Recording, right where it is needed.</b> The button sits under every message that asks for it and opens System Settings at Privacy &amp; Security, Screen&#160;Recording.</li>
+                    <li>A <b>red line around the screen</b> while a display is recorded. It is not in the&#160;recording.</li>
+                    <li>When the camera is not connected, PowerCue <b>asks whether to record the screen only</b> instead of not&#160;starting.</li>
+                    <li>New Recording opens in <b>Side by side</b>, and Screen sound sits under Frame&#160;rate.</li>
+                    <li><b>Editing in the prompter:</b> Undo and Redo work, and pasted text takes the style of the words before&#160;it.</li>
+                    <li><b>Voice Follow:</b> Smooth scrolling no longer moves the text on background noise, and a phrase heard from much earlier no longer sends the prompter back several&#160;paragraphs.</li>
+                    <li><b>Check for Updates</b> in the menu bar menu, and a dot on the icon when an update is&#160;waiting.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.32/PowerCue.dmg"
+                       sparkle:edSignature="KhIpUAXL57OuXZ2fTqGqZEkPY44vPDXaXTe+YcmXZbqXrh5BzzwUnKvm76f/FD2k14AlRIb7xVOeqBMLbtwlAg=="
+                       length="14770333"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.31</title>
             <pubDate>Fri, 16 Oct 2026 14:32:40 -0400</pubDate>
             <sparkle:version>56</sparkle:version>
