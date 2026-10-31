@@ -9,6 +9,25 @@
         <language>en</language>
 
         <item>
+            <title>Beta 1.0.33 (67)</title>
+            <pubDate>Sat, 31 Oct 2026 13:10:53 -0400</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>A 14-day trial.</b> If you tried PowerCue Beta before, you get 14 days again, counted from the first time you open this version. Later updates do not start it&#160;again.</li>
+                    <li>The installer window has a new background: the arrow sits between the icons and is sharp on&#160;Retina.</li>
+                    <li>Everything in PowerCue 1.0.32, and recording with PowerCue Pro or the&#160;trial.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.33-beta.67/PowerCue-Beta.dmg"
+                       sparkle:edSignature="6hZQ4dfPbqvHV2Ynk/Z0PrrqctQYbYyD+osgLpxJovTqdZTKSMK+1LajMzlpmenvbAKlVRbd92Vpkmyt1KgwCQ=="
+                       length="14899271"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Beta 1.0.32 (65)</title>
             <pubDate>Wed, 28 Oct 2026 00:20:29 -0400</pubDate>
             <sparkle:version>65</sparkle:version>
