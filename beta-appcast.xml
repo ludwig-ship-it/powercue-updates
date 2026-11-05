@@ -9,6 +9,30 @@
         <language>en</language>
 
         <item>
+            <title>Beta 1.0.33 (69)</title>
+            <pubDate>Thu, 05 Nov 2026 17:36:38 -0500</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Timed holds in Voice Follow.</b> Once you have read the last word before a hold such as [Pause 5s], the countdown shows and Follow stops listening until it ends, so sound played through speakers during the hold cannot move the text. Then Follow goes on with the next&#160;words.</li>
+                    <li>A hold in Voice Follow ends early if you scroll by hand, use the arrows, press Back to Top, edit the script or stop&#160;Follow.</li>
+                    <li>With an iPhone or iPad as the microphone, the phone may still hear the end of a hold. A later Companion update will fix&#160;that.</li>
+                    <li><b>Timed holds in Play.</b> Write [Pause 5s] in the script as a screen direction (Hold and Wait work too) and Play stops there for that long, with a countdown beside it, then rolls on. The hourglass button in the editor bar puts one in; type another time over the&#160;5.</li>
+                    <li>Each hold runs once per take. Back to Top runs them all again. Pause, the arrows or scrolling by hand end a hold&#160;early.</li>
+                    <li>A linked iPhone or iPad stops with the Mac during a hold and rolls on with&#160;it.</li>
+                    <li><b>The script's name in the top bar.</b> Click it to rename the script. The arrow beside it opens Previous Projects, New Project, Open Project and Save Project&#160;As.</li>
+                    <li><b>A 14-day trial.</b> If you tried a PowerCue Beta before 1.0.33, you get 14 days again, counted from the first time you open 1.0.33 or later. Later updates do not start it&#160;again.</li>
+                    <li>Everything in PowerCue 1.0.32, and recording with PowerCue Pro or the&#160;trial.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.33-beta.69/PowerCue-Beta.dmg"
+                       sparkle:edSignature="jvh7sHCUJ/CqJNEyMaUB5zW7DUlRZFcnc83MrnFcQzC7EKZ/oe1E5CPBim0t/jNxX6SixVVVWQlS+VW/J2H7Aw=="
+                       length="14972852"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Beta 1.0.33 (68)</title>
             <pubDate>Thu, 05 Nov 2026 09:23:57 -0500</pubDate>
             <sparkle:version>68</sparkle:version>
