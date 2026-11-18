@@ -9,6 +9,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.0.33</title>
+            <pubDate>Tue, 17 Nov 2026 20:15:45 -0500</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>The script's name in the top bar.</b> Click it to rename the script. The arrow beside it opens Previous Projects, New Project, Open Project and Save Project&#160;As.</li>
+                    <li><b>Timed holds in Play.</b> Write [Pause 5s] in the script as a screen direction (Hold and Wait work too) and Play stops there for that long, with a countdown beside it, then rolls on. The hourglass button in the editor bar puts one in; type another time over the&#160;5.</li>
+                    <li><b>Timed holds in Voice Follow.</b> Once you have read the last word before a hold, the countdown shows and Follow stops listening until it ends, so sound played through speakers during the hold cannot move the text. Then Follow goes on with the next&#160;words.</li>
+                    <li>Each hold runs once per read-through. Back to Top runs them all again. Scrolling by hand, the arrows or Pause end a hold&#160;early.</li>
+                    <li><b>Voice Follow keeps following after a spoken command.</b> After "PowerCue Marker 3" and the like, Follow could stop moving with you a little later, and the same command a second time did nothing. Both are&#160;fixed.</li>
+                    <li><b>Moving back while Follow listens.</b> If you scroll back, use the arrows or jump to a marker to read a part again, the words you read before no longer pull the text forward&#160;again.</li>
+                    <li><b>The display stays awake while you read.</b> With Follow or Play running, and during every take, the Mac no longer dims or sleeps the&#160;display.</li>
+                    <li><b>Screen takes are no longer too bright.</b> A screen recording came out lighter than the screen itself, most of all in the darks. It now matches what you see. Takes recorded before this update stay as they&#160;are.</li>
+                    <li>On macOS 26 and later, the buttons in the top bar no longer touch each&#160;other.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.33/PowerCue.dmg"
+                       sparkle:edSignature="W6iIv5vGFSmUsZy3mN0rPKr+ybof2ddCcFGrlNrDxBWNK7RKxjGlSsbXOLq6fiaegbZCEy2wXBZPyWxFe4lEDg=="
+                       length="14836442"
+                       type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.32</title>
             <pubDate>Wed, 28 Oct 2026 00:40:11 -0400</pubDate>
             <sparkle:version>66</sparkle:version>
