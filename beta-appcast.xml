@@ -9,6 +9,29 @@
         <language>en</language>
 
         <item>
+            <title>Beta 1.0.34 (74)</title>
+            <pubDate>Tue, 24 Nov 2026 21:28:43 -0500</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>A background color for the prompter.</b> Settings, Text, Background. Until now the page was always black. Every prompter shows the color, and so does the editor in Prompter&#160;mode.</li>
+                    <li><b>Color pairs.</b> White on black, Black on yellow and White on blue set the text and the background in one click. Black on yellow reads well on prompter glass&#160;outdoors.</li>
+                    <li><b>Colors for screen directions.</b> Under Screen Directions, choose the color of a direction's words and of the block behind them, for directions shown on the prompter. In the editor a direction keeps its&#160;teal.</li>
+                    <li>The new colors are saved in a look. Looks you saved before keep a black page and teal&#160;directions.</li>
+                    <li>On a see-through prompter and over the camera's picture, dark text gets a light&#160;shadow.</li>
+                    <li>An iPhone or iPad keeps its black page for now. A later Companion update will show the new colors&#160;there.</li>
+                    <li><b>A 14-day trial.</b> If you tried a PowerCue Beta before 1.0.33, you get 14 days again, counted from the first time you open 1.0.33 or later. Later updates do not start it&#160;again.</li>
+                    <li>Everything in PowerCue 1.0.33, and recording with PowerCue Pro or the&#160;trial.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.34-beta.74/PowerCue-Beta.dmg"
+                       sparkle:edSignature="92Tfr/KaeQqagISPV00ogRUBBPs+uwHAxWn/1kFEb61D2nc27g1FktlpRGR5he7q+98/StDyHFgsEPDbN/DcAg=="
+                       length="14984178"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Beta 1.0.33 (72)</title>
             <pubDate>Tue, 17 Nov 2026 11:47:48 -0500</pubDate>
             <sparkle:version>72</sparkle:version>
