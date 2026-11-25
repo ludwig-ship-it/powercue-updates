@@ -9,6 +9,31 @@
         <language>en</language>
 
         <item>
+            <title>Beta 1.0.34 (76)</title>
+            <pubDate>Wed, 25 Nov 2026 12:19:46 -0500</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><b>Bullets in the editor.</b> A new Bullets button beside Strikethrough puts a dot in front of each selected line. Return starts the next item, Return in an empty item ends the list, and Delete right behind a dot takes it&#160;away.</li>
+                    <li><b>The preview matches the prompter.</b> The preview beside the editor now breaks its lines exactly where the Prompter Window does, with any font, size and column. Before, a line could end on a different word&#160;there.</li>
+                    <li><b>A background color for the prompter.</b> Settings, Text, Background. Until now the page was always black. Every prompter shows the color, and so does the editor in Prompter&#160;mode.</li>
+                    <li><b>Color pairs.</b> White on black, Black on yellow and White on blue set the text and the background in one click. Black on yellow reads well on prompter glass&#160;outdoors.</li>
+                    <li><b>Colors for screen directions.</b> Under Screen Directions, choose the color of a direction's words and of the block behind them, for directions shown on the prompter. In the editor a direction keeps its&#160;teal.</li>
+                    <li>The new colors are saved in a look. Looks you saved before keep a black page and teal&#160;directions.</li>
+                    <li>On a see-through prompter and over the camera's picture, dark text gets a light&#160;shadow.</li>
+                    <li>An iPhone or iPad keeps its black page for now. A later Companion update will show the new colors&#160;there.</li>
+                    <li><b>A 14-day trial.</b> If you tried a PowerCue Beta before 1.0.33, you get 14 days again, counted from the first time you open 1.0.33 or later. Later updates do not start it&#160;again.</li>
+                    <li>Everything in PowerCue 1.0.33, and recording with PowerCue Pro or the&#160;trial.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/ludwig-ship-it/powercue-updates/releases/download/v1.0.34-beta.76/PowerCue-Beta.dmg"
+                       sparkle:edSignature="9SIPZfNv5O3kVmXqvKUtY992VKVBPwtL1YNECvyWJiUEHvAPfYR0iZ6JKopslh9GjcRlzSIgCct7wqCDpP4nCQ=="
+                       length="14964007"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Beta 1.0.34 (75)</title>
             <pubDate>Tue, 24 Nov 2026 23:59:49 -0500</pubDate>
             <sparkle:version>75</sparkle:version>
